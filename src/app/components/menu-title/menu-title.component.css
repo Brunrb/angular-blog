@@ -1,0 +1,13 @@
+.container-menu-title h1{
+  /* margin: 15px 0; */
+  text-transform: uppercase;
+  font-family: 'Bebas Neue';
+  font-size: 10rem;
+  font-weight: 700;
+  /* line-height: 9rem; */
+  display: flex;
+  justify-content: center;
+}
+.container-menu-title hr{
+  margin: 20px 0;
+}
