@@ -1,11 +1,23 @@
 .container-big-card{
-  width: 40%;
-  height: 600px;
   border: solid white 2px;
 
   display: flex;
   flex-direction: column;
+  margin-bottom: 2rem;
 }
 .big-card-photo img{
   width: 100%;
+}
+
+.big-card-container-article{
+  padding: 1.5rem 0;
+}
+
+.big-card-title h2{
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+}
+
+.big-card-description{
+  color: rgb(105, 105, 105);
 }
