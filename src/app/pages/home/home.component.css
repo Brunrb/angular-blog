@@ -1,11 +1,15 @@
 .container-article{
   display: flex;
   flex-direction: row;
+  gap: 3rem;
 
   margin: 3rem;
 }
 
 .container-article-main{
-  width: 40%;
+  width: 50%;
   min-width: 30rem;
+}
+.container-article-others{
+  width: 50%;
 }

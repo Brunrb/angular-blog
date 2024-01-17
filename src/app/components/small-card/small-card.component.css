@@ -1,3 +1,19 @@
 .container-small-card{
   border: 1px solid white;
 }
+
+.small-card-container-article{
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+
+.small-card-container-article figure{
+  width: 40%;
+  min-width: 275px;
+
+}
+
+.small-card-container-article figure img{
+  width: 100%;
+}
